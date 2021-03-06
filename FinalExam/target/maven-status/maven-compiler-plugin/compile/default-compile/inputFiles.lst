@@ -1,0 +1,16 @@
+/Users/nguyenminh/eclipse-workspace/FinalExam/src/main/java/com/vti/backend/bussinesslayer/IUserService.java
+/Users/nguyenminh/eclipse-workspace/FinalExam/src/main/java/com/vti/Utils/JdbcUltils.java
+/Users/nguyenminh/eclipse-workspace/FinalExam/src/main/java/com/vti/backend/presentation/UserController.java
+/Users/nguyenminh/eclipse-workspace/FinalExam/src/main/java/com/vti/frontend/Program.java
+/Users/nguyenminh/eclipse-workspace/FinalExam/src/main/java/com/vti/entity/Role.java
+/Users/nguyenminh/eclipse-workspace/FinalExam/src/main/java/com/vti/backend/bussinesslayer/UserService.java
+/Users/nguyenminh/eclipse-workspace/FinalExam/src/main/java/com/vti/Utils/FileManager.java
+/Users/nguyenminh/eclipse-workspace/FinalExam/src/main/java/com/vti/entity/User.java
+/Users/nguyenminh/eclipse-workspace/FinalExam/src/main/java/com/vti/backend/datalayer/UserRepository.java
+/Users/nguyenminh/eclipse-workspace/FinalExam/src/main/java/com/vti/entity/Manager.java
+/Users/nguyenminh/eclipse-workspace/FinalExam/src/main/java/com/vti/entity/Project.java
+/Users/nguyenminh/eclipse-workspace/FinalExam/src/main/java/com/vti/Utils/ScannerUtils.java
+/Users/nguyenminh/eclipse-workspace/FinalExam/src/main/java/com/vti/frontend/Function.java
+/Users/nguyenminh/eclipse-workspace/FinalExam/src/main/java/com/vti/Utils/IOStream.java
+/Users/nguyenminh/eclipse-workspace/FinalExam/src/main/java/com/vti/backend/datalayer/IUserRepository.java
+/Users/nguyenminh/eclipse-workspace/FinalExam/src/main/java/com/vti/entity/Employee.java
